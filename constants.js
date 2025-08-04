@@ -2,7 +2,7 @@ export const MOCK_PRODUCTS = [
   {
     id: '1',
     name: 'Auriculares Inalámbricos Modernos',
-    price: '129.99 €',
+    price: '129.99 $',
     imageUrl: 'https://picsum.photos/seed/product1/600/400',
     description: 'Experimenta un sonido inmersivo con estos auriculares inalámbricos elegantes y cómodos. Batería de larga duración y audio nítido.',
     category: 'Electrónica',
@@ -12,7 +12,7 @@ export const MOCK_PRODUCTS = [
   {
     id: '2',
     name: 'Silla de Oficina Ergonómica',
-    price: '249.50 €',
+    price: '55.50 $',
     imageUrl: 'https://picsum.photos/seed/product2/600/400',
     description: 'Mantente cómodo y productivo con esta silla ergonómica ajustable, diseñada para largas horas de trabajo.',
     category: 'Muebles',
@@ -22,8 +22,8 @@ export const MOCK_PRODUCTS = [
   {
     id: '3',
     name: 'Monitor de Actividad Inteligente',
-    price: '79.00 €',
-    imageUrl: 'https://picsum.photos/seed/product3/600/400',
+    price: '79.00 $',
+    imageUrl: 'https://picsum.photos/seed/product9/600/400',
     description: 'Monitorea tu salud y objetivos de fitness con este rastreador inteligente lleno de funciones. Registra pasos, ritmo cardíaco, sueño y más.',
     category: 'Vestibles',
     rating: 4.2,
@@ -32,7 +32,7 @@ export const MOCK_PRODUCTS = [
   {
     id: '4',
     name: 'Granos de Café Artesanal',
-    price: '22.95 €',
+    price: '22.95 $',
     imageUrl: 'https://picsum.photos/seed/product4/600/400',
     description: 'Granos de café artesanal de primera calidad, de origen ético. Perfectos para un café matutino rico y aromático.',
     category: 'Alimentos',
@@ -42,7 +42,7 @@ export const MOCK_PRODUCTS = [
   {
     id: '5',
     name: 'Lámpara de Escritorio Minimalista',
-    price: '45.00 €',
+    price: '45.00 $',
     imageUrl: 'https://picsum.photos/seed/product5/600/400',
     description: 'Ilumina tu espacio de trabajo con esta elegante y minimalista lámpara de escritorio LED. Niveles de brillo ajustables.',
     category: 'Decoración del Hogar',
@@ -52,7 +52,7 @@ export const MOCK_PRODUCTS = [
   {
     id: '6',
     name: 'Camiseta de Algodón Orgánico',
-    price: '35.00 €',
+    price: '35.00 $',
     imageUrl: 'https://picsum.photos/seed/product6/600/400',
     description: 'Camiseta suave, transpirable y ecológica hecha de algodón 100% orgánico. Un básico sostenible para tu armario.',
     category: 'Ropa',
@@ -62,7 +62,7 @@ export const MOCK_PRODUCTS = [
   {
     id: '7',
     name: 'Altavoz Bluetooth Portátil',
-    price: '59.99 €',
+    price: '59.99 $',
     imageUrl: 'https://picsum.photos/seed/product7/600/400',
     description: 'Altavoz Bluetooth compacto y potente para música en cualquier lugar. Diseño resistente al agua y duradero.',
     category: 'Electrónica',
@@ -72,7 +72,7 @@ export const MOCK_PRODUCTS = [
   {
     id: '8',
     name: 'Taza de Viaje Térmica',
-    price: '28.50 €',
+    price: '28.50 $',
     imageUrl: 'https://picsum.photos/seed/product8/600/400',
     description: 'Mantén tus bebidas calientes o frías durante horas con esta elegante taza de viaje térmica. A prueba de fugas y fácil de llevar.',
     category: 'Cocina',

@@ -1,6 +1,6 @@
 {
   "name": "KLEEFXSHOP",
-  "description": "Un sitio web de comercio electrónico dinámico e interactivo para KLEEFXSHOP, que presenta un catálogo de productos, un carrito de compras persistente que utiliza localStorage y un formulario de contacto funcional.",
+  "description": "Sitio web de comercio electrónico dinámico e interactivo para KLEEFXSHOP, que presenta un catálogo de productos, un carrito de compras persistente que utiliza localStorage y un formulario de contacto funcional.",
   "requestFramePermissions": [],
   "prompt": ""
 }
