@@ -1,8 +1,9 @@
+#KLEEFXSHOP
 Tienda KLEEFX | Online Shop
 
-Creada con HTML y CSS, Javscript 
+Creada con HTML | CSS | Javscript | Tailwind
 
-Entrega Final de Talento Tech.
+Entrega Final de Talento Tech - FrontEnd JS
 
 Interactividad Completa:
 Permite al usuario ver productos, añadirlos al carrito, editar el carrito, y simular la compra.
@@ -23,4 +24,4 @@ Estilo moderno con fuentes de Google Fonts
 Diseño adaptable a diferentes dispositivos (responsive)
 
 
-@Autor: Cliford "KLEEFDEV" Jean-Louis @Fecha de Inicio: 21/05/2025 @Proyecto: KLEEFX | Online Shop
+@Autor: Cliford "KLEEFDEV" Jean-Louis @Fecha de Inicio: 21/05/2025 @Proyecto: KLEEFXSHOP | Tienda Online KLEEFX
